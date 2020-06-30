@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#StageWood Frontend
+
+This is the frontend app of a full-stack registration form which is part of a coding challenge given to me by StageWood Consortium(https://stagewood.com/). The backend part will be delivered shortly.
 
 ## Available Scripts
 
